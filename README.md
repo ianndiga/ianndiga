@@ -115,6 +115,6 @@ LAN Configuration • System Monitoring • Troubleshooting
 - 💼 **LinkedIn:** [linkedin.com/in/ian-ndiga](https://www.linkedin.com/in/ian-ndiga)
 
 ---
-
+NB:ALL MY PUBLIC REPO ARE MY SCHOOL ASSIGNMENTS, PLEASE DON'T INTERFERE WITH THEM OR CHANGE ANYTHING. YOU CAN CHECK MY PROJECT ON MY PORTFOLIO. THANK YOU IN ADVANCE. 
 ⭐ *Thanks for visiting my GitHub profile!*  
 Let’s connect, collaborate, and build something amazing together 🚀
