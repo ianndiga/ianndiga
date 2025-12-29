@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me  
-I’m a passionate **ICT Professional** **AI/ML Engineer**   and **Full-Stack Developer** dedicated to creating innovative, scalable, and user-friendly digital solutions.  
+I’m a passionate **ICT Professional**,  **AI/ML Engineer**   and **Full-Stack Developer** dedicated to creating innovative, scalable, and user-friendly digital solutions.  
 I specialize in **IT support**, **network management**, and **software development** — transforming ideas into practical, efficient systems.  
 
 Currently, done pursuing **AI For Software Engineering** at **PLP Academy**, focusing on **machine learning**, **cloud technologies**, and **automation** to build smarter digital ecosystems.  
@@ -19,7 +19,7 @@ Currently, done pursuing **AI For Software Engineering** at **PLP Academy**, foc
 - 🔭 I’m currently working on:  
   Building **responsive web applications** and exploring **AI-driven automation tools**.  
 
-- 🌱 I’m currently adding my skilss:  
+- 🌱 I’m currently adding skills:  
   **Artificial Intelligence** and **Machine Learning** on **my own after finishing my studies this year at PLP Academy**.  
 
 - 👯 I’m looking to collaborate on:  
