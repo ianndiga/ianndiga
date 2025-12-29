@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Ian Ndiga  
 
-💻 ICT Professional | 🌐 Full-Stack Developer | 🧠 AI Software Engineer in Training  
+💻 ICT Officer | IT Support Engineer | Junior Software Developer | Full-Stack Developer | AI/ML Engineer 
 
 ---
 
 ## 🧠 About Me  
-I’m a passionate **ICT Professional** and **Full-Stack Developer** dedicated to creating innovative, scalable, and user-friendly digital solutions.  
+I’m a passionate **ICT Professional** **AI/ML Engineer**   and **Full-Stack Developer** dedicated to creating innovative, scalable, and user-friendly digital solutions.  
 I specialize in **IT support**, **network management**, and **software development** — transforming ideas into practical, efficient systems.  
 
-Currently, I’m pursuing **AI Software Engineering** at **PLP Academy**, focusing on **machine learning**, **cloud technologies**, and **automation** to build smarter digital ecosystems.  
+Currently, done pursuing **AI For Software Engineering** at **PLP Academy**, focusing on **machine learning**, **cloud technologies**, and **automation** to build smarter digital ecosystems.  
 
 > 💬 *"Technology isn’t just what I do — it’s what drives me to innovate, learn, and inspire."*
 
@@ -19,8 +19,8 @@ Currently, I’m pursuing **AI Software Engineering** at **PLP Academy**, focusi
 - 🔭 I’m currently working on:  
   Building **responsive web applications** and exploring **AI-driven automation tools**.  
 
-- 🌱 I’m currently learning:  
-  **Artificial Intelligence** and **Machine Learning** at **PLP Academy**.  
+- 🌱 I’m currently adding my skilss:  
+  **Artificial Intelligence** and **Machine Learning** on **my own after finishing my studies this year at PLP Academy**.  
 
 - 👯 I’m looking to collaborate on:  
   **Open-source projects**, **tech community initiatives**, and **web or AI development** collaborations.  
@@ -29,7 +29,7 @@ Currently, I’m pursuing **AI Software Engineering** at **PLP Academy**, focusi
   Advanced **AI integration** in full-stack systems and **cloud deployment strategies**.  
 
 - 💬 Ask me about:  
-  **ICT systems**, **web development**, **networking**, or **troubleshooting and optimization**.  
+  **ICT systems**, **web development**, **Artificial Intelligence** **networking**, or **troubleshooting and optimization**.  
 
 - 😄 Pronouns:  
   He / Him  
@@ -91,7 +91,7 @@ LAN Configuration • System Monitoring • Troubleshooting
 ---
 
 ## 🎓 Education  
-🎓 **AI Software Engineer** — PLP Academy *(2025–Present)*  
+🎓 **AI Software Engineer** — PLP Academy *(2025)*  
 🎓 **Diploma in ICT** — The Nairobi National Polytechnic *(2019–2022)*  
 
 ---
@@ -99,7 +99,7 @@ LAN Configuration • System Monitoring • Troubleshooting
 ## 🌱 Currently Exploring  
 - 🤖 Artificial Intelligence & Machine Learning  
 - ☁️ Cloud Computing  
-- ⚙️ Full-Stack Development *(React, Node.js, Django)*  
+- ⚙️ Full-Stack Development *(MERN)*  
 
 ---
 
