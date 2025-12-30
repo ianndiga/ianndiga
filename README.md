@@ -29,7 +29,7 @@ Currently, done pursuing **AI For Software Engineering** at **PLP Academy**, foc
   Advanced **AI integration** in full-stack systems and **cloud deployment strategies**.  
 
 - 💬 Ask me about:  
-  **ICT systems**, **web development**, **Artificial Intelligence** **networking**, or **troubleshooting and optimization**.  
+  **ICT systems**, **web development**, **AI/ML**, **networking**, or **troubleshooting and optimization**.  
 
 - 😄 Pronouns:  
   He / Him  
