@@ -91,7 +91,7 @@ LAN Configuration • System Monitoring • Troubleshooting
 ---
 
 ## 🎓 Education  
-🎓 **AI For Software Engineer** — PLP Academy *(2025)*  
+🎓 **AI For Software Engineering** — PLP Academy *(2025)*  
 🎓 **Diploma in ICT** — The Nairobi National Polytechnic *(2019–2022)*  
 
 ---
