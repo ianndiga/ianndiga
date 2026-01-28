@@ -20,7 +20,7 @@ Currently, done pursuing **AI For Software Engineering** at **PLP Academy**, foc
   Building **responsive web applications** and exploring **AI-driven automation tools**.  
 
 - 🌱 I’m currently adding skills:  
-  **Artificial Intelligence** and **Machine Learning** on **my own after finishing my studies this year at PLP Academy**.  
+  **Artificial Intelligence** and **Machine Learning** on **my own after finishing my studies at PLP Academy**.  
 
 - 👯 I’m looking to collaborate on:  
   **Open-source projects**, **tech community initiatives**, and **web or AI development** collaborations.  
