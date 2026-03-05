@@ -1,16 +1,16 @@
 # 👋 Hi there, I'm Ian Ndiga  
 
-💻 ICT Officer | IT Support Engineer | Junior Software Developer | Full-Stack Developer | AI/ML Engineer 
+💻 ICT Officer | IT Support Engineer | Junior Software Developer | Full-Stack Developer | AI/ML  Enthusiast
 
 ---
 
-## 🧠 About Me  
-I’m a passionate **ICT Professional**,  **AI/ML Engineer**   and **Full-Stack Developer** dedicated to creating innovative, scalable, and user-friendly digital solutions.  
-I specialize in **IT support**, **network management**, and **software development** — transforming ideas into practical, efficient systems.  
+## 🧠 About Me
 
-Currently, done pursuing **AI For Software Engineering** at **PLP Academy**, focusing on **machine learning**, **cloud technologies**, and **automation** to build smarter digital ecosystems.  
+I'm a passionate **ICT Professional** and **Junior Software Developer** dedicated to creating innovative, scalable, and user-friendly digital solutions. I specialize in **IT support**, **network management**, and **software development** — transforming ideas into practical, efficient systems.
 
-> 💬 *"Technology isn’t just what I do — it’s what drives me to innovate, learn, and inspire."*
+I completed the **AI for Software Engineering program at PLP Academy (2025)** , focusing on **machine learning concepts**, **web technologies**, and **modern software engineering practices** to build smarter digital ecosystems. I also hold a **Diploma in Information Communication Technology** from The Nairobi National Polytechnic.
+
+> 💬 *"Technology isn't just what I do — it's what drives me to innovate, learn, and inspire."*
 
 ---
 
